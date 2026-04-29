@@ -10,6 +10,6 @@ A public repository for agent skills.
 
 Each skill lives in `skills/<name>/SKILL.md`.
 
-## Thanks
+## Acknowledgements
 
-Thanks to Matt Pocock and the BMAD Method project for inspiration from their prompting patterns and brainstorming methodologies.
+These skills build on ideas from Matt Pocock and Brian Madison’s agent workflow methodology. I love their work and appreciate the clarity and structure they bring to agent workflows.
