@@ -6,7 +6,6 @@ A public collection of reusable agent workflows.
 
 - `/brainstorm` — generate and explore ideas before choosing a direction.
 - `/grill-me` — interview the user relentlessly to stress-test a plan or design.
-- `/plan` — turn an agreed goal into an actionable execution plan.
 
 Each one lives in `skills/<name>/SKILL.md`.
 
